@@ -1,5 +1,4 @@
 <?xml version="1.0"?>
-<!-- Generated using Jnoob's Packets File parser. -->
 <Packets>
 	<Packet id="FAILURE" type="0"/>
 	<Packet id="CREATE_SUCCESS" type="11"/>
