@@ -1,8 +1,7 @@
-Realm Relay
+Credits
 ===========
+Gratin (me), and a big thanks to Kithio over at www.nillysrealm.com for teaching me how to update packets :)
 
-A relay server, or proxy, designed for hacking Realm of the Mad God.
-
-Contribution
+Compiled Version
 ------------
-Please include your mpgh.net username with your pull request so I know who you are
+Please check www.nillysrealm.com for the compiled version of the proxy (the executable jar file)
