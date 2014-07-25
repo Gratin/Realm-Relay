@@ -1,6 +1,6 @@
 Credits
 ===========
-DeVoidCoder for releasing the original project, and everyone at github who has made improvements and updated it since
+DeVoidCoder for releasing the original project, and everyone at github who has made improvements and updated it since.
 Gratin (me), and a big thanks to Kithio over at www.nillysrealm.com for teaching me how to update packets :)
 Compiled Version
 ------------
